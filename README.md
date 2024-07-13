@@ -1,4 +1,4 @@
-﻿# JsonServices
+﻿# json_services
 
 [![.NET](https://github.com/yallie/JsonServices/actions/workflows/dotnet.yml/badge.svg)](https://github.com/yallie/JsonServices/actions/workflows/dotnet.yml)
 [![Appveyor build status](https://ci.appveyor.com/api/projects/status/l8sntux7xbx53rk6?svg=true)](https://ci.appveyor.com/project/yallie/jsonservices)
